@@ -20,7 +20,6 @@
       "styles": [
         "styles.css", "../node_modules/materialize-css/dist/css/materialize.min.css"
       ],
-      //conexiones
       "scripts": 
       [
       "../node_modules/jquery/dist/jquery.min.js",
